@@ -11,3 +11,10 @@ Week 1 : 23 September 2025
 - Contact and introductions made 
 - WhatsApp Group made for active social encounters
 - Roles decided and GitHub repositories made 
+
+Case Study Mobile Shopping 
+- CloudShop-Operation
+- CloudShop-Service
+- CloudShop-Manager
+- CloudShop-Customer
+
