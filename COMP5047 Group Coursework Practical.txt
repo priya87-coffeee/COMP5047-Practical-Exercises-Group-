@@ -25,4 +25,17 @@ Meeting Agenda
 - Delegate roles from the case study subsystems 
 - Set meeting rules/ boundaries
 
+Tasks Set
+Coursework Case Study Subsystems set as follows:
+- Priyanshi Kulshrestha: Student Union Management App
+- Abdul Hussain: Society App
+- Zsombor Olah: USU Operating System 
+- Sikander Iqbal: USU Student App
+
+Tasks to do for the week - complete the specification for task 2 
+Research and understand the quality attributes for the given subsystem requirements
+Check in on Saturday to check work progress
+
+Total meeting minutes - 40 minutes 
+
 
