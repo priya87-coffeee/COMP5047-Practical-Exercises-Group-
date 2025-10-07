@@ -1,0 +1,17 @@
+COMP5047 Group coursework 07/10/2025 - Meeting Notes
+
+Date - 07/10/2025
+Time - 12.15pm to 13:00pm
+All members attended the meeting
+
+Task check from last week :
+
+- Update: Everyone has completed quality attributes for their required sub-system
+- Task 2 is complete
+
+Work on Task 3 - work on creating  UML diagrams for the individual systems. 
+No current issues. 
+
+
+
+
