@@ -1,0 +1,15 @@
+Week 5 Meeting Agenda 21/10/2025
+
+Week 5 COMP5047 Meeting Agenda 
+
+- Last weeks meeting was cancelled due to issues with scheduling and other technical issues.
+
+Meeting Aims:
+
+Item 1 - check progress on everyone's work with papyrus and if people need more time for completing UML diagrams. 
+
+Item 2 - Look and do a briefing for task 4 and task 5 
+
+Item 3-  Having done a briefing, create milestone plan for completing the overall system architecture design and the software report
+
+
