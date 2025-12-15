@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_xnJHINULEfC5J-_POOVxBg" name="Activity Model">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_xpl-MNULEfC5J-_POOVxBg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_xpR1INULEfC5J-_POOVxBg" name="Activity1" node="_nc32ENUMEfC5J-_POOVxBg _pkPyQNUMEfC5J-_POOVxBg _s8BmYNUMEfC5J-_POOVxBg _t5cQ4NUMEfC5J-_POOVxBg _5K4I4NUMEfC5J-_POOVxBg _9LdCYNUMEfC5J-_POOVxBg _Cs2OYNUNEfC5J-_POOVxBg _Euof8NUNEfC5J-_POOVxBg _Hpw0UNUNEfC5J-_POOVxBg _KyQ2UNUNEfC5J-_POOVxBg _MSsuUNUNEfC5J-_POOVxBg _O9Ep4NUNEfC5J-_POOVxBg" group="_11LN0NULEfC5J-_POOVxBg">
+    <edge xmi:type="uml:ControlFlow" xmi:id="_KQB2gNUOEfC5J-_POOVxBg" target="_Euof8NUNEfC5J-_POOVxBg" source="_pkPyQNUMEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_MQD0kNUOEfC5J-_POOVxBg" target="_nc32ENUMEfC5J-_POOVxBg" source="_5K4I4NUMEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_WoRlkNUOEfC5J-_POOVxBg" target="_Hpw0UNUNEfC5J-_POOVxBg" source="_t5cQ4NUMEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_XyRTgNUOEfC5J-_POOVxBg" inPartition="_11LN0NULEfC5J-_POOVxBg" target="_t5cQ4NUMEfC5J-_POOVxBg" source="_nc32ENUMEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_b31asNUOEfC5J-_POOVxBg" target="_Euof8NUNEfC5J-_POOVxBg" source="_s8BmYNUMEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_fsfYENUOEfC5J-_POOVxBg" target="_Euof8NUNEfC5J-_POOVxBg" source="_Cs2OYNUNEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_hnVUINUOEfC5J-_POOVxBg" target="_Cs2OYNUNEfC5J-_POOVxBg" source="_9LdCYNUMEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_i9BUsNUOEfC5J-_POOVxBg" target="_KyQ2UNUNEfC5J-_POOVxBg" source="_Euof8NUNEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_jmKYUNUOEfC5J-_POOVxBg" target="_MSsuUNUNEfC5J-_POOVxBg" source="_KyQ2UNUNEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_kw3Q4NUOEfC5J-_POOVxBg" target="_O9Ep4NUNEfC5J-_POOVxBg" source="_MSsuUNUNEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rcvTANUOEfC5J-_POOVxBg" target="_KyQ2UNUNEfC5J-_POOVxBg" source="_Hpw0UNUNEfC5J-_POOVxBg"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_sdzHYNUOEfC5J-_POOVxBg" target="_9LdCYNUMEfC5J-_POOVxBg" source="_5K4I4NUMEfC5J-_POOVxBg"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_11LN0NULEfC5J-_POOVxBg" name="Societies Admin." node="_nc32ENUMEfC5J-_POOVxBg _pkPyQNUMEfC5J-_POOVxBg _s8BmYNUMEfC5J-_POOVxBg _t5cQ4NUMEfC5J-_POOVxBg" edge="_XyRTgNUOEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateObjectAction" xmi:id="_nc32ENUMEfC5J-_POOVxBg" name="Check Societies" incoming="_MQD0kNUOEfC5J-_POOVxBg" outgoing="_XyRTgNUOEfC5J-_POOVxBg" inPartition="_11LN0NULEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateObjectAction" xmi:id="_pkPyQNUMEfC5J-_POOVxBg" name="UPDATE" outgoing="_KQB2gNUOEfC5J-_POOVxBg" inPartition="_11LN0NULEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateObjectAction" xmi:id="_s8BmYNUMEfC5J-_POOVxBg" name="DELETE" outgoing="_b31asNUOEfC5J-_POOVxBg" inPartition="_11LN0NULEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateObjectAction" xmi:id="_t5cQ4NUMEfC5J-_POOVxBg" name="ADD" incoming="_XyRTgNUOEfC5J-_POOVxBg" outgoing="_WoRlkNUOEfC5J-_POOVxBg" inPartition="_11LN0NULEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateLinkAction" xmi:id="_5K4I4NUMEfC5J-_POOVxBg" name="LOG ON" outgoing="_MQD0kNUOEfC5J-_POOVxBg _sdzHYNUOEfC5J-_POOVxBg">
+      <handler xmi:type="uml:ExceptionHandler" xmi:id="_RSr2YNUNEfC5J-_POOVxBg"/>
+      <handler xmi:type="uml:ExceptionHandler" xmi:id="_QEuZANUOEfC5J-_POOVxBg"/>
+      <handler xmi:type="uml:ExceptionHandler" xmi:id="_RhggENUOEfC5J-_POOVxBg"/>
+    </node>
+    <node xmi:type="uml:CreateLinkAction" xmi:id="_9LdCYNUMEfC5J-_POOVxBg" name="CLICK SOCIETIES:" incoming="_sdzHYNUOEfC5J-_POOVxBg" outgoing="_hnVUINUOEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateLinkAction" xmi:id="_Cs2OYNUNEfC5J-_POOVxBg" name="BROWSE" incoming="_hnVUINUOEfC5J-_POOVxBg" outgoing="_fsfYENUOEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateLinkAction" xmi:id="_Euof8NUNEfC5J-_POOVxBg" name="SOCIETIES" incoming="_KQB2gNUOEfC5J-_POOVxBg _b31asNUOEfC5J-_POOVxBg _fsfYENUOEfC5J-_POOVxBg" outgoing="_i9BUsNUOEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateLinkAction" xmi:id="_Hpw0UNUNEfC5J-_POOVxBg" name="NEW" incoming="_WoRlkNUOEfC5J-_POOVxBg" outgoing="_rcvTANUOEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateLinkAction" xmi:id="_KyQ2UNUNEfC5J-_POOVxBg" name="PAYS" incoming="_i9BUsNUOEfC5J-_POOVxBg _rcvTANUOEfC5J-_POOVxBg" outgoing="_jmKYUNUOEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateLinkAction" xmi:id="_MSsuUNUNEfC5J-_POOVxBg" name="JOIN" incoming="_jmKYUNUOEfC5J-_POOVxBg" outgoing="_kw3Q4NUOEfC5J-_POOVxBg"/>
+    <node xmi:type="uml:CreateLinkAction" xmi:id="_O9Ep4NUNEfC5J-_POOVxBg" name="LOG OFF" incoming="_kw3Q4NUOEfC5J-_POOVxBg"/>
+  </packagedElement>
+</uml:Model>
